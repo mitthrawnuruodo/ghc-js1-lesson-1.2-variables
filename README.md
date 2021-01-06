@@ -1,4 +1,4 @@
-# Programming foundations lesson 1.2 Variables - strings, numbers and booleans
+# Programming Foundations Lesson 1.2: Variables - strings, numbers and booleans
 
 ## Exercises for Programming Foundations Lesson 2
 
