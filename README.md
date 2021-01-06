@@ -30,7 +30,7 @@ Assign the value `true` to `myBool`.
 
 Again, console log out the value of `myBool`. What result did you expect it to have now?
 
-Level 2:What is the result of the following, and why:
+What is the result of the following, and why:
 ```js
 console.log(!myBool);
 ```
