@@ -1,2 +1,3 @@
-# pf-lesson-1.2-variables
-Exercises for Programming Foundations Lesson 2
+# Programming foundations Lesson 1.2 Variables - strings, numbers and booleans
+
+## Exercises for Programming Foundations Lesson 2
