@@ -16,7 +16,9 @@ Make sure you see the "script.js is connected" logged in Console.
 
 
 ## Exercise 4
+Make a new apropriately named variable with the string "Blåbærsyltetøy".
 
+Console log out the number of characters in that string.
 
 ## Exercise 5
 
