@@ -48,11 +48,11 @@ Console log out `(a + b)`. What result do you get?
 Without changing `a` or `b`, what do you need to do to get the result to be 42?
 
 ## Exercise 6
-Make a variable x = 19, y = 23, and z = 10;
+Make the variables x = 19, y = 23, and z = 10.
 
 Console log out (x + y * z). Did you get the result you expected?
 
-How must you place parenthesis in the expression (x + y * z) to get the result 420, in stead?
+How must you place parenthesis in the expression (x + y * z) to get the result 420, instead?
 
 ## Exercise 7
 Console log out the reminder you get when dividing 7 by 3.
